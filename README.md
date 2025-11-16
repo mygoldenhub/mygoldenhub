@@ -99,16 +99,16 @@
    <img alt="Node.js" src="./img/nodejs.png?style=plastic&logo=html5&logoColor=white" width="60px" height="18px">
   </a>   
   <a href="https://www.djangoproject.com/start/overview/" target="_blank">
-    <img alt="Django" src="./img/django.png?style=plastic&logo=css3&logoColor=white" width="60px" height="18px">
+    <img alt="Django" src="./img/django.png?style=plastic&logo=css3&logoColor=white" width="50px" height="18px">
   </a> 
   <a href="https://www.w3schools.com/php/php_intro.asp" target="_blank"> 
-     <img alt="Php" src="./img/new-php-logo.png?style=plastic&logo=javascript&logoColor=black" width="60px" height="18px">
+     <img alt="Php" src="./img/new-php-logo.png?style=plastic&logo=javascript&logoColor=black" width="50px" height="18px">
    </a>
   <a href="https://www.typescriptlang.org/docs/handbook/intro.html" target="_blank"> 
      <img alt="Typescript" src="./img/typescript.jpg?style=plastic&logo=javascript&logoColor=black" width="60px" height="18px">
    </a>
   <a href="https://codeigniter.com" target="_blank"> 
-     <img alt="CodeIgniter" src="./img/ci.png?style=plastic&logo=javascript&logoColor=black" width="60px" height="18px">
+     <img alt="CodeIgniter" src="./img/ci.png?style=plastic&logo=javascript&logoColor=black" width="105px" height="18px">
    </a>
   <a href="https://laravel.com/docs/10.x" target="_blank"> 
      <img alt="CodeIgniter" src="./img/laravel.svg?style=plastic&logo=javascript&logoColor=black" width="60px" height="18px">
