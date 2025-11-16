@@ -96,7 +96,7 @@
 <p align="center">
   &emsp;
   <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank"> 
-   <img alt="Node.js" src="./img/nodejs.svg?style=plastic&logo=html5&logoColor=white" width="60px" height="18px">
+   <img alt="Node.js" src="./img/nodejs.png?style=plastic&logo=html5&logoColor=white" width="60px" height="18px">
   </a>   
   <a href="https://www.djangoproject.com/start/overview/" target="_blank">
     <img alt="Django" src="./img/django.png?style=plastic&logo=css3&logoColor=white" width="60px" height="18px">
@@ -108,7 +108,7 @@
      <img alt="Typescript" src="./img/typescript.jpg?style=plastic&logo=javascript&logoColor=black" width="60px" height="18px">
    </a>
   <a href="https://codeigniter.com" target="_blank"> 
-     <img alt="CodeIgniter" src="./img/codeigniter-logo.svg?style=plastic&logo=javascript&logoColor=black" width="60px" height="18px">
+     <img alt="CodeIgniter" src="./img/ci.png?style=plastic&logo=javascript&logoColor=black" width="60px" height="18px">
    </a>
   <a href="https://laravel.com/docs/10.x" target="_blank"> 
      <img alt="CodeIgniter" src="./img/laravel.svg?style=plastic&logo=javascript&logoColor=black" width="60px" height="18px">
