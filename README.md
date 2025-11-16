@@ -89,19 +89,19 @@
 <p align="center">
   &emsp;
   <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank"> 
-   <img alt="Node.js" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg?style=plastic&logo=html5&logoColor=white&width=18px&height=18px">
+   <img alt="Node.js" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg?style=plastic&logo=html5&logoColor=white" width="18px" height="18px">
   </a>   
   <a href="https://www.djangoproject.com/start/overview/" target="_blank">
-    <img alt="Django" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg?style=plastic&logo=css3&logoColor=white&width=30&height=18">
+    <img alt="Django" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg?style=plastic&logo=css3&logoColor=white" width="18px" height="18px">
   </a> 
   <a href="https://www.w3schools.com/php/php_intro.asp" target="_blank"> 
-     <img alt="Php" src="https://www.php.net/images/logos/new-php-logo.png?style=plastic&logo=javascript&logoColor=black&width=30&height=18">
+     <img alt="Php" src="https://www.php.net/images/logos/new-php-logo.png?style=plastic&logo=javascript&logoColor=black" width="18px" height="18px">
    </a>
   <a href="https://www.typescriptlang.org/docs/handbook/intro.html" target="_blank"> 
-     <img alt="Typescript" src="https://www.typescriptlang.org/icons/icon-48x48.png?style=plastic&logo=javascript&logoColor=black&width=18&height=18">
+     <img alt="Typescript" src="https://www.typescriptlang.org/icons/icon-48x48.png?style=plastic&logo=javascript&logoColor=black" width="18px" height="18px">
    </a>
   <a href="https://codeigniter.com" target="_blank"> 
-     <img alt="CodeIgniter" src="./img/codeigniter-logo.svg?style=plastic&logo=javascript&logoColor=black">
+     <img alt="CodeIgniter" src="./img/codeigniter-logo.svg?style=plastic&logo=javascript&logoColor=black" width="18px" height="18px">
    </a>
 </p>
 
