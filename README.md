@@ -74,10 +74,10 @@
     <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
   </a>
   <a href="https://nextjs.org/" target="_blank">
-    <img alt="Next.js" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png?style=plastic&logo=React&logoColor=black">
+    <img alt="Next.js" src="./img/next-js-icon-logo-png_seeklogo-449825.png?style=plastic&logo=React&logoColor=black" width="18px" height="18px">
   </a>
   <a href="https://angular.dev/" target="_blank">
-    <img alt="Angular" src="https://angular.io/assets/images/logos/angular/angular.svg?style=plastic&logo=React&logoColor=black&width=18px&height=18px">
+    <img alt="Angular" src="  ?style=plastic&logo=React&logoColor=black" width="18px" height="18px">
   </a>
   <a href="https://www.typescriptlang.org/docs/handbook/intro.html" target="_blank"> 
      <img alt="Typescript" src="https://www.typescriptlang.org/icons/icon-48x48.png?style=plastic&logo=javascript&logoColor=black">
@@ -89,13 +89,13 @@
 <p align="center">
   &emsp;
   <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank"> 
-   <img alt="Node.js" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg?style=plastic&logo=html5&logoColor=white" width="18px" height="18px">
+   <img alt="Node.js" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg?style=plastic&logo=html5&logoColor=white" width="24px" height="18px">
   </a>   
   <a href="https://www.djangoproject.com/start/overview/" target="_blank">
-    <img alt="Django" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg?style=plastic&logo=css3&logoColor=white" width="18px" height="18px">
+    <img alt="Django" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg?style=plastic&logo=css3&logoColor=white" width="40px" height="18px">
   </a> 
   <a href="https://www.w3schools.com/php/php_intro.asp" target="_blank"> 
-     <img alt="Php" src="https://www.php.net/images/logos/new-php-logo.png?style=plastic&logo=javascript&logoColor=black" width="18px" height="18px">
+     <img alt="Php" src="https://www.php.net/images/logos/new-php-logo.png?style=plastic&logo=javascript&logoColor=black" width="40px" height="25px">
    </a>
   <a href="https://www.typescriptlang.org/docs/handbook/intro.html" target="_blank"> 
      <img alt="Typescript" src="https://www.typescriptlang.org/icons/icon-48x48.png?style=plastic&logo=javascript&logoColor=black" width="18px" height="18px">
