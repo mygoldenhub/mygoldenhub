@@ -77,7 +77,7 @@
     <img alt="Next.js" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png?style=plastic&logo=React&logoColor=black">
   </a>
   <a href="https://angular.dev/" target="_blank">
-    <img alt="Angular" src="https://angular.io/assets/images/logos/angular/angular.svg?style=plastic&logo=React&logoColor=black">
+    <img alt="Angular" src="https://angular.io/assets/images/logos/angular/angular.svg?style=plastic&logo=React&logoColor=black&width=18px&height=18px">
   </a>
   <a href="https://www.typescriptlang.org/docs/handbook/intro.html" target="_blank"> 
      <img alt="Typescript" src="https://www.typescriptlang.org/icons/icon-48x48.png?style=plastic&logo=javascript&logoColor=black">
@@ -89,19 +89,19 @@
 <p align="center">
   &emsp;
   <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank"> 
-   <img alt="Node.js" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg?style=plastic&logo=html5&logoColor=white">
+   <img alt="Node.js" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg?style=plastic&logo=html5&logoColor=white&width=18px&height=18px">
   </a>   
   <a href="https://www.djangoproject.com/start/overview/" target="_blank">
-    <img alt="Django" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg?style=plastic&logo=css3&logoColor=white">
+    <img alt="Django" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg?style=plastic&logo=css3&logoColor=white&width=30&height=18">
   </a> 
   <a href="https://www.w3schools.com/php/php_intro.asp" target="_blank"> 
-     <img alt="Php" src="https://www.php.net/images/logos/new-php-logo.png?style=plastic&logo=javascript&logoColor=black">
+     <img alt="Php" src="https://www.php.net/images/logos/new-php-logo.png?style=plastic&logo=javascript&logoColor=black&width=30&height=18">
    </a>
   <a href="https://www.typescriptlang.org/docs/handbook/intro.html" target="_blank"> 
-     <img alt="Typescript" src="https://www.typescriptlang.org/icons/icon-48x48.png?style=plastic&logo=javascript&logoColor=black">
+     <img alt="Typescript" src="https://www.typescriptlang.org/icons/icon-48x48.png?style=plastic&logo=javascript&logoColor=black&width=18&height=18">
    </a>
   <a href="https://codeigniter.com" target="_blank"> 
-     <img alt="CodeIgniter" src="./codeigniter-logo.svg?style=plastic&logo=javascript&logoColor=black">
+     <img alt="CodeIgniter" src="./img/codeigniter-logo.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
 </p>
 
@@ -213,7 +213,7 @@
 	
 <p align="center">
     <a>
-	    <img alt="Github Stats" src="./api.svg?username=mygoldenhub&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	    <img alt="Github Stats" src="./img/api.svg?username=mygoldenhub&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mygoldenhub&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
 <br/>
 
@@ -246,7 +246,7 @@
 <div>
   <p align="center">
 	<a href="https://github.com/mygoldenhub/orca">
-      		<img src="./ocra.svg&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="./img/ocra.svg&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
