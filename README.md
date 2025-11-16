@@ -78,15 +78,15 @@
   </a>
   &emsp; 
   <a href="https://nextjs.org/" target="_blank">
-    <img alt="Next.js" src="./img/next-js-icon-logo-png_seeklogo-449825.png?style=plastic&logo=React&logoColor=black" width="30px" height="18px">
+    <img alt="Next.js" src="./img/next-js-icon-logo-png_seeklogo-449825.png?style=plastic&logo=React&logoColor=black" width="40px" height="18px">
   </a>
   &emsp; 
   <a href="https://angular.dev/" target="_blank">
-    <img alt="Angular" src="./img/angular.png?style=plastic&logo=React&logoColor=black" width="30px" height="18px">
+    <img alt="Angular" src="./img/angular.png?style=plastic&logo=React&logoColor=black" width="60px" height="18px">
   </a>
   &emsp; 
   <a href="https://www.typescriptlang.org/docs/handbook/intro.html" target="_blank"> 
-     <img alt="Typescript" src="./img/typescript.jpg?style=plastic&logo=javascript&logoColor=black" width="30px" height="18px">
+     <img alt="Typescript" src="./img/typescript.jpg?style=plastic&logo=javascript&logoColor=black" width="60px" height="18px">
    </a>
   &emsp; 
 </p>
@@ -96,22 +96,22 @@
 <p align="center">
   &emsp;
   <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank"> 
-   <img alt="Node.js" src="./img/nodejs.svg?style=plastic&logo=html5&logoColor=white" width="30px" height="18px">
+   <img alt="Node.js" src="./img/nodejs.svg?style=plastic&logo=html5&logoColor=white" width="60px" height="18px">
   </a>   
   <a href="https://www.djangoproject.com/start/overview/" target="_blank">
-    <img alt="Django" src="./img/django.png?style=plastic&logo=css3&logoColor=white" width="30px" height="18px">
+    <img alt="Django" src="./img/django.png?style=plastic&logo=css3&logoColor=white" width="60px" height="18px">
   </a> 
   <a href="https://www.w3schools.com/php/php_intro.asp" target="_blank"> 
-     <img alt="Php" src="./img/new-php-logo.png?style=plastic&logo=javascript&logoColor=black" width="30px" height="18px">
+     <img alt="Php" src="./img/new-php-logo.png?style=plastic&logo=javascript&logoColor=black" width="60px" height="18px">
    </a>
   <a href="https://www.typescriptlang.org/docs/handbook/intro.html" target="_blank"> 
-     <img alt="Typescript" src="./img/typescript.jpg?style=plastic&logo=javascript&logoColor=black" width="30px" height="18px">
+     <img alt="Typescript" src="./img/typescript.jpg?style=plastic&logo=javascript&logoColor=black" width="60px" height="18px">
    </a>
   <a href="https://codeigniter.com" target="_blank"> 
-     <img alt="CodeIgniter" src="./img/codeigniter-logo.svg?style=plastic&logo=javascript&logoColor=black" width="50px" height="18px">
+     <img alt="CodeIgniter" src="./img/codeigniter-logo.svg?style=plastic&logo=javascript&logoColor=black" width="60px" height="18px">
    </a>
   <a href="https://laravel.com/docs/10.x" target="_blank"> 
-     <img alt="CodeIgniter" src="./img/laravel.svg?style=plastic&logo=javascript&logoColor=black" width="30px" height="18px">
+     <img alt="CodeIgniter" src="./img/laravel.svg?style=plastic&logo=javascript&logoColor=black" width="60px" height="18px">
    </a>
 </p>
 
