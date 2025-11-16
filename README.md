@@ -111,7 +111,7 @@
      <img alt="CodeIgniter" src="./img/ci.png?style=plastic&logo=javascript&logoColor=black" width="105px" height="18px">
    </a>
   <a href="https://laravel.com/docs/10.x" target="_blank"> 
-     <img alt="CodeIgniter" src="./img/laravel.svg?style=plastic&logo=javascript&logoColor=black" width="60px" height="18px">
+     <img alt="CodeIgniter" src="./img/laravel.svg?style=plastic&logo=javascript&logoColor=black" width="45px" height="18px">
    </a>
 </p>
 
@@ -255,10 +255,20 @@
 	
 <div>
   <p align="center">
-	<a href="https://github.com/mygoldenhub/orca">
+	<!-- <a href="https://github.com/mygoldenhub/orca">
       		<img src="./img/ocra.svg&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
+	<a href="https://github.com/mygoldenhub/orca">
+      		<img src="./img/ocra.svg&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+  </p> -->
+  <a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/Ahmed-Hossam">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
 </div>
 </details>
 
