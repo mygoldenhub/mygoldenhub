@@ -223,7 +223,7 @@
 	
 <p align="center">
     <a>
-	    <img alt="Github Stats" src="./img/api.svg?username=mygoldenhub&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mygoldenhub&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mygoldenhub&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
 <br/>
 
@@ -255,19 +255,8 @@
 	
 <div>
   <p align="center">
-	<!-- <a href="https://github.com/mygoldenhub/orca">
-      		<img src="./img/ocra.svg&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
-	<a href="https://github.com/mygoldenhub/orca">
-      		<img src="./img/ocra.svg&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p> -->
-  <a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Ahmed-Hossam">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
+  <a href="https://github.com/mygoldenhub/orca">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mygoldenhub&repo=orca&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 </div>
 </details>
@@ -275,7 +264,7 @@
 </br></br>
 	
 ## 🐍 A Snake Eating My Contributions Graph
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif)
+![github-contribution-grid-snake]
 <p align="center">
 	<picture>
 		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mygoldenhub/mygoldenhub/output/github-contribution-grid-snake-dark.svg">
