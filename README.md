@@ -264,7 +264,7 @@
 </br></br>
 	
 ## 🐍 A Snake Eating My Contributions Graph
-![github-contribution-grid-snake]
+![github-contribution-grid-snake](https://github.com/sudoshivesh/sudoshivesh/blob/output/github-contribution-grid-snake.gif)
 <p align="center">
 	<picture>
 		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mygoldenhub/mygoldenhub/output/github-contribution-grid-snake-dark.svg">
