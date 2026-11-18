@@ -1,6 +1,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=18B776FF&section=header">
 <p>
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"></p>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" height="50%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" height="50%" style="display:inline;"></p>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=A020F0&amp;size=30&amp;center=false&amp;lines=Senior+AI+Full+Stack+Dev;7++years+of+Experience;Always+learning+new+things;Certified+in+over+50+Skills"></p>
  <div style="display:flow-root;">
   <p>I'm a Senior AI Full-Stack Web &amp; Mobile Developer with over <b>7 years of experience</b> specializing in <b>SaaS</b>, <b>MVP development</b>, <b>AI integration</b> and <b>Automation</b>.</p>
