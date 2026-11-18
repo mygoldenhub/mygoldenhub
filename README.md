@@ -1,8 +1,8 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=18B776FF&section=header">
 <p>
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"></p>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=A020F0&amp;size=30&amp;center=false&amp;lines=Senior+Full+Stack+AI+Dev;7++years+of+Experience;Always+learning+new+things;Certified+in+over+50+Skills"></p>
- <p>I'm a Senior Full-Stack Engineer with over <b>7 years of experience</b> specializing in cutting-edge <b>web development</b>, <b>AI</b> , <b>Automation</b>. <br>My expertise lies in crafting high-quality, responsive, and scalable web applications with a focus on brilliant <b>UX/UI</b>  and seamless <b>cloud computing</b>  integration. <br>Let's bring your project to life with innovative solutions and technologies!</p><b>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=A020F0&amp;size=30&amp;center=false&amp;lines=Senior+AI+Full+Stack+Dev;7++years+of+Experience;Always+learning+new+things;Certified+in+over+50+Skills"></p>
+ <p>I'm a Senior AI Full-Stack Web & Mobile Developer with over <b>7 years of experience</b> specializing in <b>SaaS</b>, <b>MVP development</b> , <b>AI integration</b> and <b>Automation</b>. <br>I build scalable, high-performance <b>web and mobile applications</b> using modern technologies, with a strong focus on seamless <b>UX/UI, AI-powered solutions</b>, and <b>cloud integration</b>. <br>Let's transform your ideas into innovative, intelligent, and production-ready digital products!</p><b>
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50">
@@ -30,7 +30,7 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,html,css,tailwind,materialui,bootstrap,sass,jquery,threejs">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,html,css,tailwind,nuxtjs,materialui,bootstrap,sass,jquery,threejs,flutter,dart,androidstudio">
   </a>
 </p>
 <ul>
@@ -38,7 +38,7 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,ruby,rails,java,nodejs,py,django,spring,flask,fastapi,express,prisma,nestjs,sequelize">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,ruby,rails,java,nodejs,py,php,django,fastapi,dotnet,spring,flask,fastapi,express,prisma,nestjs,sequelize">
   </a>
 </p>
 <img align="right" alt="GIF" height="260px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
@@ -64,7 +64,7 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=au,git,github,docker,figma,xd,idea,vscode,postman,linux">
+    <img src="https://skillicons.dev/icons?i=au,git,github,docker,figma,xd,idea,vscode,postman,linux,wordpress">
   </a>
 </p>
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
